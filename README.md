@@ -1,4 +1,4 @@
-# SQL-
+# SQL- Creating a Database "PROJECT"
 Create DataBase PROJECT
 Create  Table DEPARTMENTS
 (Code INTEGER PRIMARY KEY,Name varchar(255) NOT NULL, Budget decimal NOT NULL);
