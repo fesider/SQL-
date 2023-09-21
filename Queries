@@ -1,0 +1,32 @@
+2.1 Select the last name of all employees.
+    Select LastName 
+    From EMPLOYEES;
+RESULTS 
+LastName
+Rogers
+Manikutty
+Smith
+Stevens
+Foster
+ODonnell
+Doe
+Smith
+Efron
+Goldsmith
+Doe
+Swamy
+2.2 Select the last name of all employees, without duplicates.
+    Select distinct LastName 
+    From EMPLOYEES;
+RESULTS 
+LastName
+Doe
+Efron
+Foster
+Goldsmith
+Manikutty
+ODonnell
+Rogers
+Smith
+Stevens
+Swamy
